@@ -43,10 +43,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raikerrr&show_icons=true&locale=en&layout=compact" alt="raikerrr" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raikerrr&show_icons=true&locale=en" alt="raikerrr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raikerrr&" alt="raikerrr" /></p>
-
 ---
 
 ### 📫 Connect with me:

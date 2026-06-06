@@ -1,27 +1,149 @@
 <h1 align="center">Hi 👋, I'm Shashank N Raiker</h1>
-<h3 align="center">A passionate Full-Stack Developer & AI Enthusiast from India</h3>
+<h3 align="center">Software Engineer • Full Stack Developer • Data Analyst</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=raikerrr&label=Profile%20views&color=0e75b6&style=flat" alt="raikerrr" />
 </p>
 
-- 🔭 I’m currently working on **ScenicStops – An AI-powered travel experience app**
+# Hi, I'm Shashank N Raiker 👋
 
-- 🌱 I’m currently learning **Generative AI, Prompt Engineering, and Cloud Integration**
+### Software Engineer • Full Stack Developer • Data Analyst
 
-- 👯 I’m looking to collaborate on **Full-Stack projects and AI-based solutions**
+<p align="left">
+<a href="https://www.linkedin.com/in/raikerrr">LinkedIn</a> •
+<a href="https://github.com/RAIKERRR">GitHub</a> •
+<a href="https://raiker-portfolio.vercel.app">Portfolio</a>
+</p>
 
-- 🤝 I’m open to internship opportunities in **Software Engineering, AI/ML, and UI/UX**
+---
 
-- 📝 I regularly write on **project docs, feature proposals, and UI/UX plans**
+About Me
 
-- 💬 Ask me about **React, Flutter, Firebase, AI integration, and design thinking**
+Computer Science and Design graduate with experience in Full Stack Development, Software Engineering, and Data Analytics.
 
-- 📫 How to reach me: **raikerinstudies@gmail.com**
+Experienced in building scalable web applications using MERN Stack technologies and developing analytics solutions using SQL, Power BI, Python, and Excel.
 
-- 📄 Know about my experiences: [My Resume](https://github.com/RAIKERRR/Raiker-Projects/blob/main/Shashank_N_Raiker_Resume.pdf)
+Currently focused on Software Engineering, Backend Development, Data Analytics, Artificial Intelligence, and Data Structures & Algorithms.
 
-- ⚡ Fun fact: I mix design with code and love creating things that people enjoy using!
+---
+
+Technical Skills
+
+### Programming Languages
+
+* Java
+* Python
+* JavaScript
+* SQL
+
+Full Stack Development
+
+* React.js
+* Node.js
+* Express.js
+* MongoDB
+* React Native
+* Firebase
+* REST APIs
+* HTML5
+* CSS3
+
+Data Analytics
+
+* Power BI
+* SQL
+* Excel
+* Pandas
+* NumPy
+
+Tools & Platforms
+
+* Git
+* GitHub
+* AWS
+* Google Cloud Platform
+* Figma
+
+---
+
+Featured Projects
+
+ScenicStops
+
+AI-powered travel recommendation platform built using React Native, Firebase, Node.js, and Google Maps API.
+
+* Personalized travel recommendations
+* Route planning and navigation
+* User authentication
+* Cloud database integration
+* Offline accessibility
+
+---
+
+Learning Management System (LMS)
+
+Developed during my MERN Stack Internship at Festiva Moments.
+
+* Authentication and authorization
+* Course management
+* Student enrollment
+* Progress tracking
+* REST API integration
+
+---
+
+E-Commerce Sales Analytics Dashboard
+
+Built using SQL, Power BI, and Excel.
+
+* Revenue analysis
+* Customer segmentation
+* Product performance analysis
+* Interactive KPI dashboards
+
+---
+
+HR Analytics Dashboard
+
+Built using Python, Pandas, NumPy, and Power BI.
+
+**Highlights**
+
+* Employee attrition analysis
+* Workforce trend analysis
+* Retention metrics
+* Business intelligence dashboards
+
+---
+
+Certifications
+
+* Google Cloud Study Jam – Gen AI Arcade Program
+* Applied Generative AI – Infosys Springboard
+* Artificial Intelligence Fundamentals – HP LIFE
+* AWS APAC Cloud Solutions Architecture Virtual Experience
+
+---
+
+Current Goals
+
+* Solve 150+ LeetCode problems
+* Build production-ready software applications
+* Strengthen Data Structures & Algorithms skills
+* Advance in Data Analytics and Machine Learning
+* Contribute to Open Source projects
+
+---
+
+## Connect With Me
+
+📧 Email: [raikerinstudies@gmail.com](mailto:raikerinstudies@gmail.com)
+
+🔗 LinkedIn: https://www.linkedin.com/in/raikerrr
+
+💻 GitHub: https://github.com/RAIKERRR
+
+🌐 Portfolio: https://raiker-portfolio.vercel.app
 
 ---
 
@@ -37,13 +159,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
-</p>
-
----
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raikerrr&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 ---

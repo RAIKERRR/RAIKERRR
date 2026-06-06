@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=raikerrr&label=Profile%20views&color=0e75b6&style=flat" alt="raikerrr" />
 </p>
 
-# Hi, I'm Shashank N Raiker 👋
-
-### Software Engineer • Full Stack Developer • Data Analyst
-
 <p align="left">
 <a href="https://www.linkedin.com/in/raikerrr">LinkedIn</a> •
 <a href="https://github.com/RAIKERRR">GitHub</a> •

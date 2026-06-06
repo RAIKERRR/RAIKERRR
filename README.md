@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=raikerrr&label=Profile%20views&color=0e75b6&style=flat" alt="raikerrr" />
 </p>
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/raikerrr">LinkedIn</a> •
 <a href="https://github.com/RAIKERRR">GitHub</a> •
 <a href="https://raiker-portfolio.vercel.app">Portfolio</a>
